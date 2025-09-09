@@ -1,0 +1,1 @@
+Recordatorio edita el mapa conceptual de tipos de datos y agrega los binarios y ejemplos
